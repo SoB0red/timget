@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @timget
+- 👋 Hi, I’m @SoB0red
 - 👀 I’m interested in learning python, html&css
 - 🌱 I’m currently learning python and other stuff like js
 - 💞️ I’m looking to collaborate on nothing
